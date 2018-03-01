@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 {
                     first1.setEnabled(false);
                     last1.setEnabled(false);
-                    enable_button.setEnabled(true);
+                    enable_button.setEnabled(false);
                 }
             }
         });
